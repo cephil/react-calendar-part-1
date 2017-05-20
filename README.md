@@ -1,3 +1,7 @@
+![Preview](https://s3-us-west-2.amazonaws.com/s.cdpn.io/52377/react-calendar-png.png) 
+
+[View Demo](https://codepen.io/philearley/project/editor/DNWxNj/)
+
 # Part 1: Calendar from Pug, Now to React  
 ## Stateful Components, our App, and How We Should Refactor It  
 
